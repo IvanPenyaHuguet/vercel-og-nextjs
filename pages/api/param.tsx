@@ -47,7 +47,7 @@ export default function handler(req: NextRequest) {
         <img
           alt="Vercel"
           height={200}
-          src={`https://www.iberia.com/wcs_statics/images/modules/ibe_cards/ibe-card-plus-normal.png`}
+          src={`/ibe-card-plus-normal.png`}
           style={{ margin: '0 30px' }}
           width={232}
         />      
