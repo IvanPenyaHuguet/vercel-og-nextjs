@@ -64,7 +64,7 @@ export default function handler(req: NextRequest) {
           whiteSpace: 'pre-wrap',
         }}
       >
-       dsfs
+       {title}
       </div>
       </div>
       <div style={{
