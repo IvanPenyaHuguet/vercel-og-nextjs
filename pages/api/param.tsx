@@ -18,6 +18,7 @@ export default function handler(req: NextRequest) {
 
     return new ImageResponse(
       (
+        
         <div
       style={{
         backgroundColor: 'white',
@@ -47,7 +48,7 @@ export default function handler(req: NextRequest) {
         <img
           alt="Vercel"
           height={200}
-          src={`/ibe-card-plus-normal.png`}
+          src={`https://vercel-og-nextjs-p43l.vercel.app/ibe-card-plus-normal.png`}
           style={{ margin: '0 30px' }}
           width={232}
         />      
@@ -63,7 +64,7 @@ export default function handler(req: NextRequest) {
           whiteSpace: 'pre-wrap',
         }}
       >
-        123
+       dsfs
       </div>
       </div>
       <div style={{
@@ -77,6 +78,7 @@ export default function handler(req: NextRequest) {
         <span>Mis viajes 34</span>
       </div>
    </div>
+      
       ),
       {
         width: 1200,
