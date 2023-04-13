@@ -63,7 +63,7 @@ export default function handler(req: NextRequest) {
           whiteSpace: 'pre-wrap',
         }}
       >
-        { title }
+        123
       </div>
       </div>
       <div style={{
@@ -74,7 +74,7 @@ export default function handler(req: NextRequest) {
             justifyItems: 'center',
             flexDirection: 'row'
       }}>
-        <span>Mis viajes { number }</span>
+        <span>Mis viajes 34 { number }</span>
       </div>
    </div>
       ),
